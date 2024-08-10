@@ -14,23 +14,26 @@ background-image: url(fundo.png);
             #links{
             	color: white;
             	-webkit-text-stroke: 2px black;
-              	font-size: 30px;
+              	font-size: 35px;
             	text-decoration: none;
             }
 
             #historia{
             	text-align: center;
             	color: black;
+		font-size: 15px;
             }
 
             #personagens{
             	text-align: center;
             	color: black;
+		font-size: 15px;
             }
 
             #comojogar{
             	color: black;
             	text-align: center;
+		font-size: 15px;
             }
 
 
