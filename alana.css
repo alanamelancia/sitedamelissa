@@ -1,11 +1,12 @@
-
+head{
+	background-image: url(fundo.png);
+}
             #titulo{
-	            background-image: url(fundo.png);
             	text-align: center;
             	font-size: 50px;
             	color: #F0E68C;
             	-webkit-text-stroke: 3px black;
-            }
+	    }
             #subtitulo{
                 text-align: center;
                 font-size: 25px;
@@ -18,22 +19,22 @@
               	font-size: 30px;
             	text-decoration: none;
             }
-            
+
+body{
+	background-image: url(terra.png);
+}
             #historia{
-            	background-image: url(terra.png);
             	text-align: center;
             	color: black;
             }
 
             #personagens{
-            	background-image: url(terra.png);
             	text-align: center;
             	color: black;
             }
 
             #comojogar{
             	color: black;
-            	background-image: url(terra.png);
             	text-align: center;
             }
 
