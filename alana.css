@@ -1,0 +1,51 @@
+
+            #titulo{
+	            background-image: url(fundo.png);
+            	text-align: center;
+            	font-size: 50px;
+            	color: #F0E68C;
+            	-webkit-text-stroke: 3px black;
+            }
+            #subtitulo{
+                text-align: center;
+                font-size: 25px;
+                color: white;
+                -webkit-text-stroke: 2px black;
+            }
+            #links{
+            	color: white;
+            	-webkit-text-stroke: 2px black;
+              	font-size: 30px;
+            	text-decoration: none;
+            }
+            
+            #historia{
+            	background-image: url(terra.png);
+            	text-align: center;
+            	color: black;
+            }
+
+            #personagens{
+            	background-image: url(terra.png);
+            	text-align: center;
+            	color: black;
+            }
+
+            #comojogar{
+            	color: black;
+            	background-image: url(terra.png);
+            	text-align: center;
+            }
+
+
+            footer{
+            	background-color: #f5e664;
+            	width: 100%;
+            	color: black;
+            	font-size: 20px;
+            	text-align: center;
+            	position: absolut;
+            	font-size: 16px;
+            	font-weight: bold;
+            }
+      
