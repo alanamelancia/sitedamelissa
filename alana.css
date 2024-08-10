@@ -1,6 +1,10 @@
 body{
 	background-image: fundo.png;
 }
+#paragrafo{
+	text-align: center;
+	font-size: 15px;
+}
             #titulo{
             	text-align: center;
             	font-size: 50px;
@@ -46,7 +50,6 @@ body{
             	font-size: 20px;
             	text-align: center;
             	position: absolut;
-            	font-size: 16px;
             	font-weight: bold;
             }
       
