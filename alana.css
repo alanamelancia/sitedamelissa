@@ -1,6 +1,9 @@
 body{
 	background-image: fundo.png;
 }
+head{
+	background-image: fundo.png;
+}
 #paragrafo{
 	text-align: center;
 	font-size: 15px;
@@ -27,19 +30,19 @@ body{
 #historia{
         text-align: center;
     	color: black;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 #personagens{
 	text-align: center;
     	color: black;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 #comojogar{
         color: black;
         text-align: center;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 footer{
