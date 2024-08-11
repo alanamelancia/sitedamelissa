@@ -16,6 +16,7 @@ body{
         -webkit-text-stroke: 3px black;
 }
 #subtitulo{
+	margin-top: -85px;
         text-align: center;
         font-size: 25px;
         color: white;
