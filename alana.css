@@ -48,9 +48,14 @@ body{
 	text-align: center;
 	font-size: 25px;
 }
-#paragrafo{
+#paragrafos{
 	color: white;
 	text-align: center;
+	font-size: 25px;
+}
+#paragrafo{
+	color: white;
+	text-align: left;
 	font-size: 25px;
 }
 footer{
