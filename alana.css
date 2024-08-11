@@ -4,6 +4,13 @@ body{
 head{
 	background-image: fundo.png;
 }
+main{
+	background-image: fundo.png;
+}
+#personagensname{
+	text-align: center;
+	font-size: 20px;
+}
 #paragrafo{
 	text-align: center;
 	font-size: 15px;
