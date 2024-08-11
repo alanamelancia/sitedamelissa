@@ -1,7 +1,7 @@
 body{
-	background-image: url("fundo.png");
+	background-image: url("fundo.png"), url("terra.png");
 	background-size: contain;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat, repeat;
 }
 #links{
         color: white;
