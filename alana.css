@@ -3,6 +3,9 @@ body{
 	background-size: contain;
 	background-repeat: no-repeat, repeat-x;
 }
+main{
+  display: flex;
+}
 #links{
         color: white;
     	-webkit-text-stroke: 2px black;
