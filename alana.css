@@ -1,11 +1,11 @@
 body{
-	background-image: url(fundo.png);
+	background-image: url('fundo.png');
 }
 head{
-	background-image: url(fundo.png);
+	background-image: url('fundo.png');
 }
 main{
-	background-image: url(fundo.png);
+	background-image: url('fundo.png');
 }
 #personagensname{
 	text-align: center;
